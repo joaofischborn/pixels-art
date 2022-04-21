@@ -16,3 +16,10 @@
 #yellow{
     background-color: yellow;
 }
+.pixel{
+    display: inline-block;
+    border: 1px solid black;
+    width: 40px;
+    height: 40px;
+    background-color: rgb(255, 255, 255);
+}
