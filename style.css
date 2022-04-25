@@ -4,25 +4,10 @@
     width: 50px;
     height: 50px;
 }
-#black{
-    background-color: black;
-}
-#salmon{
-    background-color: salmon;
-}
-#green{
-    background-color: green;
-}
-#yellow{
-    background-color: yellow;
-}
 .pixel{
     display: inline-block;
     border: 1px solid black;
     width: 40px;
     height: 40px;
     background-color: rgb(255, 255, 255);
-}
-.selected{
-    color: black;
 }
